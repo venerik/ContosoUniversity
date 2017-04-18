@@ -1,0 +1,6 @@
+exclude:
+- /src/ContosoUniversity/Scripts/.*
+component_depth: 1
+languages:
+- csharp
+- javascript
